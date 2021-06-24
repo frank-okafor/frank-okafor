@@ -18,7 +18,7 @@
 <a target="_blank" href="mailto:okafor.e.frank@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a target="_blank" href="https://fb.com/aryxb">
+<a target="_blank" href="https://www.facebook.com/Frank.Bukzy">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
