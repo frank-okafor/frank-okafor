@@ -1,11 +1,7 @@
 ### Hi there, I'm Frank 👋
 
-[//]: # ([![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com))
-[//]: # ([![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr))
-
 ## I'm a Software Engineer with experience!!
 
-[//]: # (- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!)
 - 🌱 I’m currently learning everything that helps me improve my skill 🤣
 - 👯 I’m looking to collaborate with other content creators and also work remotely
 - 🥅 2021 Goals: Contribute more to Open Source projects and tackle global coding challenges
@@ -17,11 +13,8 @@
 
 ### Connect with me:
 
-[//]: # ([<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website])
-[//]: # ([<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube])
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[//]: # ([<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram])
 
 <br />
 
@@ -46,34 +39,6 @@
 
 <br />
 <br />
-
----
-
-[//]: # (### 📺 Latest YouTube Videos)
-
-[//]: # (<!-- YOUTUBE:START -->)
-[//]: # (- [The Secret Blog Writing Formula That Actually Works](https://www.youtube.com/watch?v=-7ztydZcSgY))
-[//]: # (- [How To Blog #short](https://www.youtube.com/watch?v=CGcv1wuwNG0))
-[//]: # (- [Keyword Research #short](https://www.youtube.com/watch?v=5X3NjLoqUgQ))
-[//]: # (- [Catchy Blog Titles #short](https://www.youtube.com/watch?v=gLwPcnaqSMc))
-[//]: # (- [Top VS Code Updates | v1.57 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=R6AgcZ9oJ4k))
-[//]: # (<!-- YOUTUBE:END -->)
-
-[//]: # (➡️ [more videos...](https://youtube.com/codestackr))
-
----
-
-[//]: # (### 📕 Latest Blog Posts)
-
-[//]: # (<!-- BLOG-POST-LIST:START -->)
-[//]: # (- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo))
-[//]: # (- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629))
-[//]: # (- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def))
-[//]: # (- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n))
-[//]: # (- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65))
-[//]: # (<!-- BLOG-POST-LIST:END -->)
-
-[//]: # (➡️ [more blog posts...](https://codestackr.com))
 
 ---
 
