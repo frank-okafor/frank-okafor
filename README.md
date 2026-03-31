@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything that helps me improve my skill 🤣
 - 👯 I’m looking to collaborate with other content creators and also work remotely
-- 🥅 2025 Goals: Contribute more to Open Source projects and tackle global coding challenges
+- 🥅 2026 Goals: Contribute more to Open Source projects and tackle global coding challenges
 - ⚡ Fun fact: I love to dance and play video games. 🤣
 
 ### Connect with me:
